@@ -1,0 +1,93 @@
+{
+	"Tuotteet" : [
+					{
+						"tuote": "anopinhammas 9cm",
+						"hinta": 5.90,
+						"Kategoria": "kasvit",
+						"Id": 23,
+						"kuva": "https://unsplash.com/photos/miziNqvJx5M",
+						"paino": 0.3
+				  },
+
+					{
+						"tuote": "anopinkynsi 9,5cm",
+						"hinta": 5.90,
+						"Kategoria": "kasvit",
+						"Id": 22,
+						"kuva": "https://unsplash.com/photos/fbAnIjhrOL4",
+						"paino": 0.3
+				  },
+
+					{
+						"tuote": "anopinkieli 10cm",
+						"hinta": 5.90,
+						"Kategoria": "kasvit",
+						"Id": 21,
+						"kuva": "https://unsplash.com/photos/W1yjvf5idqA",
+						"paino": 0.3
+				  },
+
+					{
+						"tuote": "punaviini 0,75l",
+						"hinta": 18.90,
+						"Kategoria": "viinit",
+						"Id": 11,
+						"kuva": "https://unsplash.com/photos/etWlaoFnTl4",
+						"paino": 1.3
+				  },
+
+					{
+						"tuote": "valkoviini 0,75l",
+						"hinta": 18.90,
+						"Kategoria": "viinit",
+						"Id": 12,
+						"kuva": "https://unsplash.com/photos/w4C71BKJ6ko",
+						"paino": 1.3
+				  },
+
+					{
+						"tuote": "todella hieno roseeviini 0,75l",
+						"hinta": 22.90,
+						"Kategoria": "viinit",
+						"Id": 13,
+						"kuva": "https://unsplash.com/photos/0VLn5nrp6hE",
+						"paino": 1.2
+				  },
+
+					{
+						"tuote": "villalanka 10kg",
+						"hinta": 99.90,
+						"Kategoria": "langat",
+						"Id": 1,
+						"kuva": "https://unsplash.com/photos/IcvR0jFbsz0",
+						"paino": 10
+				  },
+
+					{
+						"tuote": "puuvillalanka 5kg",
+						"hinta": 40.90,
+						"Kategoria": "langat",
+						"Id": 2,
+						"kuva": "https://unsplash.com/photos/k_0UI2MG5XQ",
+						"paino": 5
+				  },
+
+					{
+						"tuote": "pellavalanka 500g",
+						"hinta": 9.90,
+						"Kategoria": "langat",
+						"Id": 3,
+						"kuva": "https://unsplash.com/photos/1Pqd7ZZHO5k",
+						"paino": 0.5
+				  },
+
+					{
+						"tuote": "hamppulanka 100g",
+						"hinta": 9.90,
+						"Kategoria": "langat",
+						"Id": 4,
+						"kuva": "https://unsplash.com/photos/7zqtqlyF6rk",
+						"paino": 0.1
+				  }
+]
+}
